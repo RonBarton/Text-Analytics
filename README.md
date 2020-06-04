@@ -1,2 +1,2 @@
 # Text-Analytics
-- comments about a store
+- analyzing customer comments about a store/gastation 
